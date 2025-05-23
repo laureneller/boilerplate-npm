@@ -1,7 +1,8 @@
 
 {
-	"author": "Lauren Eller",
+	
 	"name": "fcc-learn-npm-package-json",
+	"author": "Lauren Eller",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
